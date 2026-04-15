@@ -4,7 +4,7 @@
 // working = > we know hashset does not have duplicate values so if we put all freqs in set and compare it with map 
 //agar kuch repeat nhi hoga to dono same honge size m agar freq same hogi to set ka sizze kam hoga bcz no repeated value it can store
 
-
+//tc = O(n)
 
 
 class Solution {
